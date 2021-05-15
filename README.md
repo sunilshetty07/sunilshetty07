@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sunilshetty07
-- 👀 I’m interested in doing wonderfull projects that solves realtime problems
+- 👀 I’m interested in doing projects that solve realtime problems.
 - 🌱 I’m currently learning c#, MS-SQL, Angular
 - 📫 How to reach me ... <b>sunilsshetty07@gmail.com</b>
 
