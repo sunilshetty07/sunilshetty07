@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunilshetty07
 - 👀 I’m interested in doing projects that solve realtime problems 😎.
-- 🌱 I’m currently learning Microsoft Power Platform.
+- 🌱Microsoft Power Platform Developer.
 - 💖💖💖
 <!--- 📫 How to reach me ... -->
 
